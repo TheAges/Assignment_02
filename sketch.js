@@ -9,8 +9,8 @@ function setup() {
   textFont("Arial")
   
   fill("white")
-  text("Click for Drawing", width/2,height/2+190)
-  text("Press any key to enter/exit erase mode", width/2,(height/2)+210)
+  text("Click to Draw", width/2,height/2+190)
+  text("Press any key to toggle erase mode", width/2,(height/2)+210)
 
 }
 
